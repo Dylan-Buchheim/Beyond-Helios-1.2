@@ -1,5 +1,5 @@
 # Beyond-Helios-1.2
- The Unity project folder for my mobile game, Beyond Helios.
+ The Unity project folder for my mobile game, Beyond Helios, which was published on the Apple App Store.
  
  Features Include:
  - Infinite procedural level generation.
