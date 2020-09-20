@@ -1,0 +1,8 @@
+lastUpgrade=00941
+proj.pluginVersion=0.9.41
+ios.ClientId=771885512394-b2e94o6cn6vdj80kbge92jvfbbrl1sbd.apps.googleusercontent.com
+proj.ConstantsClassName=GoggleConstant
+ios.ResourceData=%23define+CLIENT_ID+%40%22771885512394-b2e94o6cn6vdj80kbge92jvfbbrl1sbd.apps.googleusercontent.com%22%0a%23define+BUNDLE_ID+%40%22com.EPICgaminStudios.BeyondHelios%22%0a%23define+ACH_TEST+%40%22CgkIyu3Yv7sWEAIQAQ%22
+and.ClientId=771885512394-b2e94o6cn6vdj80kbge92jvfbbrl1sbd.apps.googleusercontent.com
+ios.BundleId=com.EPICgaminStudios.BeyondHelios
+ios.SetupDone=true
